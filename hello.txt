@@ -4,3 +4,5 @@ Aug, 7 . 2025
 now for update 2
 
 config global update
+
+config test
