@@ -5,4 +5,4 @@ now for update 2
 
 config global update
 
-config test
+config test [it WORKED ;) ]
