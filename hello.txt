@@ -6,3 +6,5 @@ now for update 2
 config global update
 
 config test [it WORKED ;) ]
+
+update 1
