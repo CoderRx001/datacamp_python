@@ -8,3 +8,4 @@ config global update
 config test [it WORKED ;) ]
 
 update 1
+update 2
